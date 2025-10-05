@@ -13,6 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "07_Communications/AI-Powered Systems Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Powered Systems Engineering"
+            }
+          },
+          {
+            "id": "efec5b2e7ad8e457",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-task-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-task-list-view"
+            }
+          },
+          {
+            "id": "413db80f854c9796",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-advanced-calendar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-advanced-calendar-view"
+            }
+          },
+          {
+            "id": "51871a14242a1fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +54,49 @@
               "icon": "lucide-file",
               "title": "Meeting Agenda and MoMs 20250914"
             }
+          },
+          {
+            "id": "28c126e322f5da65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Templates/Add Project Brainstorming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Add Project Brainstorming"
+            }
+          },
+          {
+            "id": "b4ce274086082f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Communications/Qahwa Gathering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qahwa Gathering"
+            }
+          },
+          {
+            "id": "d18f1858e1da79c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00_Meta/Drawing 2025-09-21 19.32.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-21 19.32.54.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -94,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
+                "file": "00_Meta/Drawing 2025-09-21 19.32.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meeting Agenda and MoMs 20250914"
+              "title": "Backlinks for Drawing 2025-09-21 19.32.54.excalidraw"
             }
           },
           {
@@ -113,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
+                "file": "Publish Obsidian Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Meeting Agenda and MoMs 20250914"
+              "title": "Outgoing links from Publish Obsidian Vault"
             }
           },
           {
@@ -142,55 +217,107 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
+                "file": "90_Attachments/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meeting Agenda and MoMs 20250914"
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "37e6e558e7b6ce0a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "90_Attachments/Untitled.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "ad45b4f117120172",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "ad6aab63b8435264",
+  "active": "d18f1858e1da79c4",
   "lastOpenFiles": [
-    "99_Templates/Meeting Agenda and MoMs.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
-    "99_Templates/Add Project Brainstorming.md",
-    "99_Templates/Board Member Template.md",
-    "99_Templates/Add Rough Project Plan.md",
-    "99_Templates/Event Planning Template.md",
-    "99_Templates/Decision Making.md",
-    "01_Governance/Memberships Development.md",
+    "00_Meta/Vault Organisation & Processes.md",
+    "01_Governance/INCOSE Infrastructure.md",
     "01_Governance/By-Laws.md",
     "01_Governance/Vision_Mission_Strategy.md",
+    "01_Governance/Memberships Development.md",
+    "README.md",
+    "00_Meta/Drawing 2025-09-21 19.32.54.excalidraw.md",
+    "90_Attachments/Untitled.md",
+    "09_Secretary/Untitled.md",
+    "08_Finances/Untitled.md",
+    "06_SE-Education/Untitled.md",
+    "05_Working-Groups/Untitled.md",
+    "02_Inbox/Untitled.md",
+    "99_Templates/Communication Event Announcement.md",
+    "Publish Obsidian Vault.md",
+    "01_Governance/MENACOSE_People/Bassem Hassan.md",
+    "01_Governance/MENACOSE_People",
+    "07_Communications/Query Communication.base",
+    "07_Communications/AI-Powered Systems Engineering.md",
+    "07_Communications/Qahwa Gathering.md",
+    "07_Communications/Untitled.md",
+    "00_Meta/(Every U) Bi-Weekly Qahwa Gathering.md",
+    "99_Templates/Add Project Brainstorming.md",
+    "03_Meetings/03.01_Board-Meetings/Bi-Weekly Qahwa Gathering.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
+    "99_Templates/Meeting Agenda and MoMs.md",
+    "09_Secretary",
+    "99_Templates/Event Planning Template.md",
+    "99_Templates/Decision Making.md",
+    "TaskNotes/Tasks",
+    "TaskNotes",
+    "Untitled.canvas",
     "04_Projects-AND-Initiatives/04.01_Events",
     "03_Meetings/03.02_General-Meetings",
     "03_Meetings/03.01_Board-Meetings",
-    "Untitled",
     "90_Attachments/90.01_Images",
-    "02_Inbox",
-    "90_Attachments",
-    "99_Templates",
-    "07_Communications",
-    "06_SE-Education",
-    "Untitled.md"
+    "02_Inbox"
   ]
 }

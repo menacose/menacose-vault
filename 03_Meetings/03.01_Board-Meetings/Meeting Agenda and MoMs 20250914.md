@@ -56,3 +56,5 @@ note_taker: "{{Name of minute taker}}"
 
 ## Parking Lot / Other Items (if time allows)
 - …
+
+- [[Bi-Weekly Qahwa Gathering]]

@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.folder == "07_Communications"
+    - file.basename != "Query Communication"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Post Type
+      - where
+      - Language
+      - Status
+      - Speaker
+      - date time
+      - Communication Channels
+    columnSize:
+      note.Speaker: 115

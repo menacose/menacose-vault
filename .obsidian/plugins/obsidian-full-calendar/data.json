@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(258, 88%, 66%)",
+      "directory": "00_Meta"
+    },
+    {
+      "type": "dailynote",
+      "color": "hsl(258, 88%, 66%)",
+      "heading": "Publish Obsidian Vault"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
