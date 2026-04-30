@@ -6,7 +6,7 @@ location: "{{Venue / Virtual link}}"
 chair: "{{Name of meeting chair / facilitator}}"
 note_taker: "{{Name of minute taker}}"
 ---
-Hi Check the tasks
+
 # Agenda – {{meeting_title}}
 
 ## Attendees
