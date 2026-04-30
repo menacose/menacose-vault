@@ -42,35 +42,7 @@
             }
           },
           {
-            "id": "51871a14242a1fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20250914"
-            }
-          },
-          {
             "id": "28c126e322f5da65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20251123.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20251123"
-            }
-          },
-          {
-            "id": "d18f1858e1da79c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,14 +240,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d18f1858e1da79c4",
+  "active": "28c126e322f5da65",
   "lastOpenFiles": [
-    "09_Secretary/09.01_People/Moataz Hassan.md",
-    "09_Secretary/09.01_People",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
-    "99_Templates/Meeting Agenda and MoMs.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20251123.md",
+    "03_Meetings/03.01_Board-Meetings/Untitled.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
+    "09_Secretary/09.01_People/Moataz Hassan.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
+    "09_Secretary/09.01_People",
+    "99_Templates/Meeting Agenda and MoMs.md",
     "99_Templates/Add Project Brainstorming.md",
     "00_Meta/Drawing 2025-09-21 19.32.54.excalidraw.md",
     "05_Working-Groups/Untitled 1.md",
