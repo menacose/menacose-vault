@@ -1,6 +1,6 @@
 ---
 meeting_title: "{{Title of Meeting}}"
-date: 2026-04-30
+date: 2026-04-26
 time: "{{Start Time}} – {{End Time}}"
 location: "{{Venue / Virtual link}}"
 chair: "{{Name of meeting chair / facilitator}}"
