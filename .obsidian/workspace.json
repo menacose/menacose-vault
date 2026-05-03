@@ -56,31 +56,17 @@
             }
           },
           {
-            "id": "28c126e322f5da65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20260426"
-            }
-          },
-          {
             "id": "d18f1858e1da79c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Governance/By-Laws.md",
+                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "By-Laws"
+              "title": "Meeting Agenda and MoMs 20260503"
             }
           },
           {
@@ -98,31 +84,21 @@
             }
           },
           {
-            "id": "a2bf0ce20d550d8c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "37e0cb75a580063a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
+                "file": "01_Governance/MENACOSE_People/Omar Hussein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20260426"
+              "title": "Omar Hussein"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
+                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meeting Agenda and MoMs 20260426"
+              "title": "Backlinks for Meeting Agenda and MoMs 20260503"
             }
           },
           {
@@ -306,23 +282,74 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37e0cb75a580063a",
+  "floating": {
+    "id": "7584d2138329c73b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fe9966d00bd31e75",
+        "type": "window",
+        "children": [
+          {
+            "id": "89eb3ccfb0696080",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28c126e322f5da65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03_Meetings/EMEA Monthly 20260428.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "EMEA Monthly 20260428"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4,
+        "y": 28,
+        "width": 1909,
+        "height": 1054,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ad6aab63b8435264",
   "lastOpenFiles": [
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20251123.md",
     "01_Governance/By-Laws.md",
-    "01_Governance/MENACOSE_People/Moataz Hassan.md",
-    "02_Inbox/Untitled.md",
+    "03_Meetings/EMEA Monthly 20260428.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
     "03_Meetings/03.01_Board-Meetings/Untitled.md",
+    "Pasted image 20260428182330.png",
+    "Pasted image 20260428182321.png",
+    "Pasted image 20260428180928.png",
+    "Pasted image 20260428175913.png",
+    "Pasted image 20260428175830.png",
+    "Screenshot 2026-04-28 at 17.51.49.png",
+    "Pasted image 20260428175308.png",
+    "Screenshot 2026-04-28 at 17.49.44 3.png",
+    "Screenshot 2026-04-28 at 17.49.44 2.png",
+    "Screenshot 2026-04-28 at 17.49.44 1.png",
+    "03_Meetings/Bi-Weekly Qahwa Gathering.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20251123.md",
+    "01_Governance/MENACOSE_People/Moataz Hassan.md",
+    "01_Governance/MENACOSE_People/Omar Hussein.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
+    "02_Inbox/Untitled.md",
     "09_Secretary/09.01_People",
     "99_Templates/Meeting Agenda and MoMs.md",
     "99_Templates/Add Project Brainstorming.md",
     "00_Meta/Drawing 2025-09-21 19.32.54.excalidraw.md",
     "05_Working-Groups/Untitled 1.md",
-    "Pasted image 20251123200245.png",
     "02_Inbox/Due Diligence on Proposing a New Systems Engineering Journal for the Middle East.md",
-    "03_Meetings/Bi-Weekly Qahwa Gathering.md",
     "07_Communications/AI-Powered Systems Engineering.md",
     "07_Communications/Qahwa Gathering.md",
     "01_Governance/INCOSE Infrastructure.md",
@@ -333,9 +360,6 @@
     "90_Attachments/Untitled.md",
     "09_Secretary/Untitled.md",
     "08_Finances/Untitled.md",
-    "06_SE-Education/Untitled.md",
-    "05_Working-Groups/Untitled.md",
-    "99_Templates/Communication Event Announcement.md",
     "01_Governance/MENACOSE_People",
     "07_Communications/Query Communication.base",
     "09_Secretary",
