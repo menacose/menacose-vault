@@ -10,8 +10,13 @@ note_taker: "{{Name of minute taker}}"
 # Agenda – {{meeting_title}}
 
 ## Attendees
-- [ ] {{Person 1}}
-- [ ] {{Person 2}}
+- [x] Dr. Maged Elaasar ✅ 2026-05-10
+- [x] Dr. Bassem Hassan ✅ 2026-05-10
+- [x] Hassan Eldeeb ✅ 2026-05-10
+- [x] Moataz Hassan ✅ 2026-05-10
+- [ ] Mohamed Adel
+- [ ] Mahmoud Fouda
+- [x] Omar Hussein ✅ 2026-05-10
 - …
 
 ## Absentees
@@ -20,6 +25,7 @@ note_taker: "{{Name of minute taker}}"
 ---
 
 ## Updates
+- [ ] Newsletter by [[Dr. Maged Elaasar]] is WIP - Deadline: 15.05
 - [ ] Any updates?
 - [ ] Any news about the Finances?
 
@@ -55,4 +61,15 @@ Example of Roll-Ups - AI-Generated!
 ---
 
 ## Parking Lot / Other Items (if time allows)
-- …
+- Next Webinars
+	- What topics are interesting?
+	- Please, share the topics & speakers - Will create a separate note for that
+	- **Issue with Attendance?**
+	- Tarek Chaib
+	- Sven-Olaf Schulze
+	- Mix between Arabs and Foreigners
+	- SysML V2.0
+	- Ontologies
+	- 
+- Our next targets - PLEASE PRIORITISE
+	- 

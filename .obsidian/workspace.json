@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "91ec1ba77b302d8a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260510185522.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260510185522"
+            }
+          },
+          {
             "id": "87ce0ffd7c3e8f54",
             "type": "leaf",
             "state": {
@@ -335,17 +347,19 @@
   },
   "active": "a3764d05f566f368",
   "lastOpenFiles": [
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
+    "Screenshot 2026-04-28 at 17.51.49.png",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260510.md",
+    "03_Meetings/Bi-Weekly Qahwa Gathering.md",
+    "02_Inbox/MENACOSE Banner.md",
     "Pasted image 20260510185522.png",
     "02_Inbox/Untitled.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
     "02_Inbox/Untitled.canvas",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260510.md",
     "Screenshot 2026-04-28 at 17.49.44.png",
     "03_Meetings/EMEA Monthly 20260428.md",
-    "Screenshot 2026-04-28 at 17.51.49.png",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20250914.md",
     "01_Governance/By-Laws.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260426.md",
     "Pasted image 20260428182330.png",
     "Pasted image 20260428182321.png",
     "Pasted image 20260428180928.png",
@@ -353,8 +367,6 @@
     "Pasted image 20260428175830.png",
     "Pasted image 20260428175308.png",
     "Screenshot 2026-04-28 at 17.49.44 3.png",
-    "Screenshot 2026-04-28 at 17.49.44 2.png",
-    "03_Meetings/Bi-Weekly Qahwa Gathering.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20251123.md",
     "01_Governance/MENACOSE_People/Moataz Hassan.md",
     "01_Governance/MENACOSE_People/Omar Hussein.md",
@@ -372,7 +384,6 @@
     "00_Meta/Vault Organisation & Processes.md",
     "README.md",
     "90_Attachments/Untitled.md",
-    "09_Secretary/Untitled.md",
     "01_Governance/MENACOSE_People",
     "07_Communications/Query Communication.base",
     "09_Secretary",
