@@ -34,7 +34,7 @@ note_taker: "{{Name of minute taker}}"
 | --- | ------------------------------------------- | ----------- | --------------- | ------------------- | -------- |
 | 1   | Roll-Ups                                    | All         | 20              | Conference Material | High     |
 | 2   | Next Phase (Strategy, Targets, Initiatives) | All         | 30              | Governance          | High     |
-| 3   | …                                           | …           | …               | …                   | …        |
+| 3   | test me                                     | …           | …               | …                   | …        |
 
 ---
 
