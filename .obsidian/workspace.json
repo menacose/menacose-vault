@@ -8,121 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8ba35db63ebfcbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Communications/AI-Powered Systems Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI-Powered Systems Engineering"
-            }
-          },
-          {
-            "id": "efec5b2e7ad8e457",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-task-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-task-list-view"
-            }
-          },
-          {
-            "id": "413db80f854c9796",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-advanced-calendar-view",
-              "state": {},
-              "icon": "calendar-range",
-              "title": "Advanced Calendar"
-            }
-          },
-          {
-            "id": "51871a14242a1fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Meetings/EMEA Monthly 20260428.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EMEA Monthly 20260428"
-            }
-          },
-          {
-            "id": "0683db1cfcb022c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot 2026-04-28 at 17.51.49.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-04-28 at 17.51.49"
-            }
-          },
-          {
-            "id": "a3764d05f566f368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260517.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20260517"
-            }
-          },
-          {
-            "id": "91ec1ba77b302d8a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260510185522.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260510185522"
-            }
-          },
-          {
-            "id": "87ce0ffd7c3e8f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Governance/MENACOSE_People/Moataz Hassan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moataz Hassan"
-            }
-          },
-          {
             "id": "37e0cb75a580063a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260517.md",
+                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260524.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20260517"
+              "title": "Meeting Agenda and MoMs 20260524"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260517.md",
+                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260524.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meeting Agenda and MoMs 20260517"
+              "title": "Backlinks for Meeting Agenda and MoMs 20260524"
             }
           },
           {
@@ -308,9 +207,12 @@
   },
   "active": "37e0cb75a580063a",
   "lastOpenFiles": [
+    "00_Meta/INCOSE_MENA_Logo_Package 1.zip",
+    "00_Meta/INCOSE_MENA_Logo_Package.zip",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260517.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260524.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260510.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260517.md",
     "08_Finances/List of Open Points - Finance.md",
     "01_Governance/MENACOSE_People/Omar Hussein.md",
     "01_Governance/MENACOSE_People/Moataz Hassan.md",
@@ -344,7 +246,6 @@
     "01_Governance/INCOSE Infrastructure.md",
     "01_Governance/Vision_Mission_Strategy.md",
     "01_Governance/Memberships Development.md",
-    "00_Meta/Vault Organisation & Processes.md",
     "01_Governance/MENACOSE_People",
     "07_Communications/Query Communication.base",
     "09_Secretary",
@@ -353,7 +254,6 @@
     "Untitled.canvas",
     "04_Projects-AND-Initiatives/04.01_Events",
     "03_Meetings/03.02_General-Meetings",
-    "03_Meetings/03.01_Board-Meetings",
-    "90_Attachments/90.01_Images"
+    "03_Meetings/03.01_Board-Meetings"
   ]
 }
