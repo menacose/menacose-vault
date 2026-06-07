@@ -26,7 +26,7 @@ note_taker: "{{Name of minute taker}}"
 - [ ] Scheduled: Dillon's Webinar: "From Specification to System Model in Minutes: How Agentic AI Is Collapsing the MBSE Timeline" 12.06 at 17:00 Cairo Time
 - [ ] Scheduled: Ahmed Al-Sudairi on a webinar: "Systems Engineering between the East and the West" | Date: Sun. 14.06 at 21:00 Cairo Time - Omar will organise
 - [x] WIP: Tarek El Chaib for SysML V2 Webinar ✅ 2026-05-24
-	- [ ] Date: Sun. 28.06 at 21:00 Cairo Time - Dr. Bassem will organise
+	- [ ] Date: Sun. 28.06 at 21:00 Cairo Time - Dr. Bassem will contact him
 	- [ ] Members and Non-Members
 
 
