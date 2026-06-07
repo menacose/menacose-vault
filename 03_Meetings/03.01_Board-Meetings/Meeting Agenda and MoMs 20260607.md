@@ -1,6 +1,6 @@
 ---
 meeting_title: Meeting Agenda and MoMs 20260524
-date: 2026-05-31
+date: 2026-06-07
 time: "{{Start Time}} – {{End Time}}"
 location: "{{Venue / Virtual link}}"
 chair: "{{Name of meeting chair / facilitator}}"
@@ -10,25 +10,24 @@ note_taker: "{{Name of minute taker}}"
 ---
 ---
 ## Attendance
-- [x] Dr. Maged Elaasar ✅ 2026-05-31
+- [ ] Dr. Maged Elaasar
 - [ ] Dr. Bassem Hassan
 - [ ] Hassan Eldeeb
 - [ ] Moataz Hassan
-- [x] Mohamed Adel ✅ 2026-05-31
+- [ ] Mohamed Adel
 - [ ] Mahmoud Fouda
-- [x] Omar Hussein ✅ 2026-05-31
+- [ ] Omar Hussein
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [x] EMEA Updates ✅ 2026-05-31
+- [x] MRSWG: Mostafa sent 3 times to Transportation WG, NO RESPONSE ✅ 2026-05-24
+	- [ ]What is the next step now?
+- [ ] Scheduled: Dillon's Webinar: "From Specification to System Model in Minutes: How Agentic AI Is Collapsing the MBSE Timeline" 12.06 at 17:00 Cairo Time
 - [ ] Scheduled: Ahmed Al-Sudairi on a webinar: "Systems Engineering between the East and the West" | Date: Sun. 14.06 at 21:00 Cairo Time - Omar will organise
 - [x] WIP: Tarek El Chaib for SysML V2 Webinar ✅ 2026-05-24
 	- [ ] Date: Sun. 28.06 at 21:00 Cairo Time - Dr. Bassem will organise
 	- [ ] Members and Non-Members
-- [x] Second session of Translation WG successfully held and well received ✅ 2026-05-24
-	- [ ] Next session: 07.06 - Invitation to be sent
-- [x] MRSWG: Mostafa sent 3 times to Transportation WG, NO RESPONSE ✅ 2026-05-24
-	- [ ]What is the next step now? 
+
 
 
 ---
