@@ -20,7 +20,8 @@ note_taker: "{{Name of minute taker}}"
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [x] MRSWG: Mostafa sent 3 times to Transportation WG, NO RESPONSE ✅ 2026-05-24
+- [ ] Dr. Bassem - ESEP Celebration
+- [x] MRSWG: Mostafa sent 3 times to Transportation WG, NO RESPONSE ✅ 2026-06-07
 	- [ ]What is the next step now?
 - [ ] Scheduled: Dillon's Webinar: "From Specification to System Model in Minutes: How Agentic AI Is Collapsing the MBSE Timeline" 12.06 at 17:00 Cairo Time
 - [ ] Scheduled: Ahmed Al-Sudairi on a webinar: "Systems Engineering between the East and the West" | Date: Sun. 14.06 at 21:00 Cairo Time - Omar will organise
