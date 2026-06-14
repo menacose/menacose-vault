@@ -1,6 +1,6 @@
 ---
-meeting_title: Meeting Agenda and MoMs 20260607
-date: 2026-06-07
+meeting_title: Meeting Agenda and MoMs 20260614
+date: 2026-06-14
 time: "{{Start Time}} – {{End Time}}"
 location: "{{Venue / Virtual link}}"
 chair: "{{Name of meeting chair / facilitator}}"
@@ -10,43 +10,36 @@ note_taker: "{{Name of minute taker}}"
 ---
 ---
 ## Attendance
-- [x] Dr. Maged Elaasar ✅ 2026-06-07
-- [x] Dr. Bassem Hassan ✅ 2026-06-07
+- [ ] Dr. Maged Elaasar
+- [ ] Dr. Bassem Hassan
 - [ ] Hassan Eldeeb
 - [ ] Moataz Hassan
-- [x] Mohamed Adel ✅ 2026-06-07
+- [ ] Mohamed Adel
 - [ ] Mahmoud Fouda
-- [x] Omar Hussein ✅ 2026-06-07
+- [ ] Omar Hussein - Absent today
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [x] Dr. Bassem - ESEP Celebration ✅ 2026-06-07
-	- [ ] Journey towards ESEP
-- [x] Debrief last webinar ontology - Stephen Powley ✅ 2026-06-07
-	- [ ] Keep into consideration: Not so detailed webinars - dry & theoretical!
+- [ ] GMPF registration link published on INCOSE - Dr. Maged
+- [ ] Next webinar scheduled for 19.06 - Agentic AI in MBSE
+- [ ] Next Translation WG Session scheduled for 21.06
 - [x] MRSWG: Mostafa sent 3 times to Transportation WG, NO RESPONSE ✅ 2026-06-07
 	- [ ]What is the next step now?
-- [x] Scheduled: Dillon's Webinar: "From Specification to System Model in Minutes: How Agentic AI Is Collapsing the MBSE Timeline" 12.06 at 17:00 Cairo Time ✅ 2026-06-07
-- [x] Scheduled: Ahmed Al-Sudairi on a webinar: "Systems Engineering between the East and the West" | Date: Sun. 14.06 at 21:00 Cairo Time - Omar will organise ✅ 2026-06-07
-- [x] WIP: Tarek El Chaib for SysML V2 Webinar ✅ 2026-05-24
+- [ ] Dr. Bassem: Journey towards ESEP
+- [x] WIP: Tarek El Chaib for SysML V2 Webinar ✅ 2026-06-14
 	- [ ] Date: Sun. 28.06 at 21:00 Cairo Time - Dr. Bassem will contact him
 	- [ ] Members and Non-Members
-- [x] Follow-up on GMPF sponsoring by INCOSE ✅ 2026-06-07
-	- [x] No fund, so far! ✅ 2026-06-07
-- [x] Mohamed requested creating WGs Smart Shipyard & UMVs ✅ 2026-06-07
-	- [x] No feedback so far ✅ 2026-06-07
-
 ---
 
 
 ## Agenda Items
 
-| #   | Topic        | Responsible | Time Box (Min.) | Category   | Priority |
-| --- | ------------ | ----------- | --------------- | ---------- | -------- |
-| 1   | Next Targets | All         | 30              | Governance | High     |
-| 2   |              |             |                 |            |          |
-| 3   |              |             |                 |            | …        |
-|     |              |             |                 |            |          |
+| #   | Topic                                           | Responsible | Time Box (Min.) | Category   | Priority |
+| --- | ----------------------------------------------- | ----------- | --------------- | ---------- | -------- |
+| 1   | Next Targets: 1- First MENA Summit / Conference | All         | 30              | Governance | High     |
+| 2   |                                                 |             |                 |            |          |
+| 3   |                                                 |             |                 |            | …        |
+|     |                                                 |             |                 |            |          |
 Discussed today:
 
 - **Townhall - Yearly for Members**

@@ -27,7 +27,8 @@ note_taker: "[[Omar Hussein]]"
 
 The Q2 issue will be released on the last day of IS
 
-No event 6 weeks before and 4 weeks after when organising local events in proximity to Intl. events.
+**No event 6 weeks before and 4 weeks after when organising local events in proximity to Intl. events.**
+Check this sheet: https://incose2.sharepoint.com/:x:/s/EMEAChapterLeader/IQA2oWiQeMdeRagG7aWLkGDDAR4hrAN4YNyGu4byEfdhjbc?e=U2F2BR&ovuser=3523a793-0e50-4646-b80b-25d83bd7f296%2Comar.hussein2%40incose.net&CID=bdeeee28-bf68-4b5c-9d86-e525cbd6f01a&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNjA0MTYxNzIxNSJ9
 
 ![[Pasted image 20260526182318.png]]
 
