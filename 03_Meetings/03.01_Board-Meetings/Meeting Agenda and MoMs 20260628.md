@@ -1,6 +1,6 @@
 ---
-meeting_title: Meeting Agenda and MoMs 20260621
-date: 2026-06-21
+meeting_title: Meeting Agenda and MoMs 20260628
+date: 2026-06-28
 time: "{{Start Time}} – {{End Time}}"
 location: "{{Venue / Virtual link}}"
 chair: "{{Name of meeting chair / facilitator}}"
@@ -10,41 +10,32 @@ note_taker: "{{Name of minute taker}}"
 ---
 ---
 ## Attendance
-- [x] Dr. Maged Elaasar ✅ 2026-06-21
-- [x] Dr. Bassem Hassan ✅ 2026-06-21
-- [x] Hassan Eldeeb ✅ 2026-06-21
+- [ ] Dr. Maged Elaasar
+- [x] Dr. Bassem Hassan ✅ 2026-06-28
+- [x] Hassan Eldeeb ✅ 2026-06-28
 - [ ] Moataz Hassan
 - [ ] Mohamed Adel
-- [x] Mahmoud Fouda ✅ 2026-06-21
-- [x] Omar Hussein ✅ 2026-06-21
+- [ ] Mahmoud Fouda
+- [x] Omar Hussein ✅ 2026-06-28
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [x] Debrief: Alsudairi webinar ✅ 2026-06-21
-	- [ ] Certification on Arabic SE
-- [x] Tarik Chaib for Webinar ✅ 2026-06-26 at 18:00 Cairo Time ✅ 2026-06-21
-	- [ ] Announce the free access to CAMEO Community Edition
-	- [ ] Send to INCOSE to list on their website
-- [x] Debrief: Davinci webinar from 2026-06-19 ✅ 2026-06-21
-- [x] Newsletter Q2 published ✅ 2026-06-21
-- [x] GMPF registration link published on INCOSE - Dr. Maged ✅ 2026-06-21
-- [x] Next Translation WG Session scheduled for 21.06 ✅ 2026-06-21
-- [x] MRSWG: Mostafa sent 3 times to Transportation WG, NO RESPONSE ✅ 2026-06-07
-	- [ ]What is the next step now?
-	- Contact Mostafa for one next week
-- [[Dr. Bassem Journey towards ESEP]]
+- [ ] Debrief Tarik's Expert Talk
+- [ ] Contacted Mohamed Chami for an Expert Talk, no reply
+- [ ] Mostafa Shoukry contacted for a session for RSWG this Sunday / Today, but he didn't have time
+- [ ] Next Week: Translation WG
 
 ---
 
 
 ## Agenda Items
 
-| #   | Topic                                           | Responsible | Time Box (Min.) | Category   | Priority |
-| --- | ----------------------------------------------- | ----------- | --------------- | ---------- | -------- |
-| 1   | Next Targets: 1- First MENA Summit / Conference | All         | 30              | Governance | High     |
-| 2   | Ontology WG - Intl. or Local?                   | Dr. Maged   |                 |            |          |
-| 3   |                                                 |             |                 |            | …        |
-|     |                                                 |             |                 |            |          |
+| #   | Topic                                                                                   | Responsible | Time Box (Min.) | Category   | Priority |
+| --- | --------------------------------------------------------------------------------------- | ----------- | --------------- | ---------- | -------- |
+| 1   | Next Activiities                        Next Targets: 1- First MENA Summit / Conference | All         | 30              | Governance | High     |
+| 2   | Ontology WG - Intl. or Local?                                                           | Dr. Maged   |                 |            |          |
+| 3   |                                                                                         |             |                 |            | …        |
+|     |                                                                                         |             |                 |            |          |
 Discussed today:
 
 - **Townhall - Yearly for Members**
