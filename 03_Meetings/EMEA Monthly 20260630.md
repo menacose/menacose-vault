@@ -1,12 +1,43 @@
 ---
 meeting_title: EMEA Sector Leadership Cal
-date: 2026-05-26
+date: 2026-06-30
 time: 17:30 - 18:30
 location: Virtual - MS Teams
 chair: "Leadership - Board Representative: Omar"
 note_taker: "[[Omar Hussein]]"
 ---
 
+
+![[Pasted image 20260630174038.png]]
+
+![[Pasted image 20260630174539.png]]
+
+![[Pasted image 20260630174652.png]]
+
+![[Pasted image 20260630174808.png]]
+
+![[Pasted image 20260630174950.png]]
+![[Pasted image 20260630175257.png]]
+
+![[Pasted image 20260630175351.png]]
+
+ ![[Pasted image 20260630180955.png]]
+
+
+![[Pasted image 20260630181129.png]]
+
+![[Pasted image 20260630181239.png]]
+
+![[Pasted image 20260630181313.png]]
+
+![[Pasted image 20260630181426.png]]
+
+![[Pasted image 20260630181522.png]]
+
+![[Pasted image 20260630181604.png]]
+
+
+![[Pasted image 20260630181802.png]]
 
 
 # EMEASEC Dashboard
