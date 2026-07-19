@@ -10,13 +10,13 @@ note_taker: "{{Name of minute taker}}"
 ---
 ---
 ## Attendance
-- [ ] Dr. Maged Elaasar
-- [ ] Dr. Bassem Hassan
+- [x] Dr. Maged Elaasar ✅ 2026-07-19
+- [x] Dr. Bassem Hassan ✅ 2026-07-19
 - [ ] Hassan Eldeeb
-- [ ] Moataz Hassan
+- [x] Moataz Hassan ✅ 2026-07-19
 - [ ] Mohamed Adel
-- [ ] Mahmoud Fouda
-- [ ] Omar Hussein
+- [x] Mahmoud Fouda ✅ 2026-07-19
+- [x] Omar Hussein ✅ 2026-07-19
 
 ---
 ## Updates (<u>10 MINUTES</u>)
@@ -33,6 +33,58 @@ note_taker: "{{Name of minute taker}}"
 | 2   | Conf. EG 26/27 | Dr. Maged   |                 |            |          |
 | 3   |                |             |                 |            | …        |
 |     |                |             |                 |            |          |
+# Retro 2025-2026
+
+		- How much have our members increased?
+			- Transferees
+			- New Members
+		- **Percentage of active participation**
+			- Members
+			- Academia
+			- Engineering Organisations
+			- Vendors
+		- How much did we engage with Academia? Academic Equivalency
+		- How wide spread is the engagement?
+			- Geo
+			- Industry
+		- 
+		- Corporate understanding
+			- Market understanding
+			- How much are they interested?
+				- Categorise businesses
+- 
+		- Internal Activities
+			- Priotrise goals (Team/Chapter)
+
+Chapter Goals
+1. Awareness
+	1. Webinars
+	2. 
+	3. 
+2. Networking
+3. Academic
+4. Community (Supply & Demand)
+5. Market study: White paper
+6. 
+- Define Projects (Set of Focus Points)
+	- Operational: Webinars, Qahwa Gathering - Omar
+	- Conference on the Ground - Internal Owner: Dr. Maged
+	- White paper - Internal Owner: Moataz, Academic Owner: TBD
+	- WG - Intenal: Mohamed WG: RSWG: , ArabicTransl.: Dr. Bassem & Omar 
+	- Certification Support
+	- Academic Equivalency
+	- Competitions
+	- Naming Opportunities - Internal Lead: Dr. Maged
+	- Add your Goal as a Project and OWN it or Own one of the other proposed ideas
+
+
+
+
+
+
+
+
+
 Discussed today:
 
 - **Townhall - Yearly for Members**
