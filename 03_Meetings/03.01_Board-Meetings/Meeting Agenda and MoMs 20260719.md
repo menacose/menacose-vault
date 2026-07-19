@@ -1,5 +1,5 @@
 ---
-meeting_title: Meeting Agenda and MoMs 20260628
+meeting_title: Meeting Agenda and MoMs 20260719
 date: 2026-07-05
 time: "{{Start Time}} – {{End Time}}"
 location: "{{Venue / Virtual link}}"
@@ -11,28 +11,28 @@ note_taker: "{{Name of minute taker}}"
 ---
 ## Attendance
 - [ ] Dr. Maged Elaasar
-- [x] Dr. Bassem Hassan ✅ 2026-07-05
-- [x] Hassan Eldeeb ✅ 2026-07-05
-- [x] Moataz Hassan ✅ 2026-07-05
+- [ ] Dr. Bassem Hassan
+- [ ] Hassan Eldeeb
+- [ ] Moataz Hassan
 - [ ] Mohamed Adel
 - [ ] Mahmoud Fouda
-- [x] Omar Hussein ✅ 2026-07-05
+- [ ] Omar Hussein
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [ ] Debrief EMEA Monthly
+- [ ] See agenda
 
 ---
 
 
 ## Agenda Items
 
-| #   | Topic                                                                                   | Responsible | Time Box (Min.) | Category   | Priority |
-| --- | --------------------------------------------------------------------------------------- | ----------- | --------------- | ---------- | -------- |
-| 1   | Next Activiities                        Next Targets: 1- First MENA Summit / Conference | All         | 30              | Governance | High     |
-| 2   | Ontology WG - Intl. or Local?                                                           | Dr. Maged   |                 |            |          |
-| 3   |                                                                                         |             |                 |            | …        |
-|     |                                                                                         |             |                 |            |          |
+| #   | Topic          | Responsible | Time Box (Min.) | Category   | Priority |
+| --- | -------------- | ----------- | --------------- | ---------- | -------- |
+| 1   | Retro.         | All         | 30              | Governance | High     |
+| 2   | Conf. EG 26/27 | Dr. Maged   |                 |            |          |
+| 3   |                |             |                 |            | …        |
+|     |                |             |                 |            |          |
 Discussed today:
 
 - **Townhall - Yearly for Members**
