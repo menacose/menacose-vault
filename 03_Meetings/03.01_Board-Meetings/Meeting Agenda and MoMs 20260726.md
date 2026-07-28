@@ -10,16 +10,17 @@ note_taker: "{{Name of minute taker}}"
 ---
 ---
 ## Attendance
-- [ ] Dr. Maged Elaasar
-- [ ] Dr. Bassem Hassan
+- [x] Dr. Maged Elaasar ✅ 2026-07-26
+- [x] Dr. Bassem Hassan ✅ 2026-07-26
 - [ ] Hassan Eldeeb
-- [ ] Moataz Hassan
-- [ ] Mohamed Adel
-- [ ] Mahmoud Fouda
-- [ ] Omar Hussein
+- [x] Moataz Hassan ✅ 2026-07-26
+- [x] Mohamed Adel ✅ 2026-07-26
+- [x] Mahmoud Fouda ✅ 2026-07-26
+- [x] Omar Hussein ✅ 2026-07-26
 
 ---
 ## Updates (<u>10 MINUTES</u>)
+- [ ] Moataz started the White Paper activities
 - [ ] Expert Talk with Mohammed Chami planned for 09.08: Lessons Learned from MBSE Projects
 	- [ ] Announcement in upcoming days
 
@@ -40,11 +41,13 @@ note_taker: "{{Name of minute taker}}"
 	- Operational: Webinars, Qahwa Gathering - Omar
 	- Conference on the Ground - Internal Owner: Dr. Maged
 	- White paper - Internal Owner: Moataz, Academic Owner: TBD
-	- WG - Intenal: Mohamed WG: RSWG: , ArabicTransl.: Dr. Bassem & Omar 
-	- Certification Support
-	- Academic Equivalency
-	- Competitions
+	- WG - Internal: Mohamed WG: RSWG: , ArabicTransl.: Dr. Bassem & Omar 
+	- Certification Support (Guidance) - Dr. Bassem, Mohamed Adel
+		- From Zero to Hero: ESEP
+	- Academic Equivalency - Dr. Bassem, Mohamed Adel
+	- Competitions - TBD
 	- Naming Opportunities - Internal Lead: Dr. Maged
+	- Media/Sponsorship Kit - Mahmoud Fouda
 	- Add your Goal as a Project and OWN it or Own one of the other proposed ideas
 
 
