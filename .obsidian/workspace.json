@@ -11,6 +11,23 @@
             "id": "37e0cb75a580063a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02_Inbox/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "e1cd6d6ea8881b31",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260809.md",
@@ -19,6 +36,54 @@
               },
               "icon": "lucide-file",
               "title": "Meeting Agenda and MoMs 20260809"
+            }
+          },
+          {
+            "id": "e5de49eb8179e647",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260630181802.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260630181802"
+            }
+          },
+          {
+            "id": "7f050baf2da9e682",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Inbox/Drawing 2026-08-09 19.06.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-09 19.06.09.excalidraw"
+            }
+          },
+          {
+            "id": "576a46057500d65b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot 2026-04-28 at 17.49.44.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2026-04-28 at 17.49.44"
+            }
+          },
+          {
+            "id": "912124f3c7f36a33",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260526175647.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260526175647"
             }
           },
           {
@@ -33,7 +98,8 @@
               "title": "Pasted image 20260728175441"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,33 +284,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37e0cb75a580063a",
+  "active": "e1cd6d6ea8881b31",
   "lastOpenFiles": [
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260802.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260809.md",
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260726.md",
-    "03_Meetings/EMEA Monthly 20260728.md",
+    "03_Meetings/EMEA Monthly 20260630.md",
+    "Pasted image 20260630181802.png",
+    "02_Inbox/Drawing 2026-08-09 19.06.09.excalidraw.md",
+    "Screenshot 2026-04-28 at 17.49.44.png",
     "Pasted image 20260728175441.png",
+    "Pasted image 20260526175647.png",
+    "03_Meetings/EMEA Monthly 20260526.md",
+    "03_Meetings/EMEA Monthly 20260428.md",
+    "03_Meetings/EMEA Monthly 20260728.md",
+    "02_Inbox/Untitled.canvas",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260809.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260802.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260726.md",
     "Pasted image 20260728181723.png",
     "Pasted image 20260728175759.png",
     "Pasted image 20260728175500.png",
     "Pasted image 20260728175453.png",
     "Pasted image 20260728175019.png",
     "Pasted image 20260728174803.png",
-    "03_Meetings/EMEA Monthly 20260630.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260719.md",
     "03_Meetings/03.01_Board-Meetings/Members and Non-Members.md",
     "07_Communications/Untitled.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260705.md",
-    "03_Meetings/EMEA Monthly 20260428.md",
     "03_Meetings/Bi-Weekly Qahwa Gathering.md",
     "03_Meetings/03.01_Board-Meetings/Ask for active WGs.md",
     "03_Meetings/03.01_Board-Meetings/Mohamed requested creating WGs.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260628.md",
-    "Pasted image 20260630181802.png",
-    "Pasted image 20260630181604.png",
-    "Pasted image 20260630181522.png",
-    "03_Meetings/EMEA Monthly 20260526.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260621.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260614.md",
     "03_Meetings/03.01_Board-Meetings/Dr. Bassem Journey towards ESEP.md",
@@ -256,9 +324,6 @@
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260517.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260510.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20260503.md",
-    "08_Finances/List of Open Points - Finance.md",
-    "01_Governance/MENACOSE_People/Omar Hussein.md",
-    "02_Inbox/Untitled.canvas",
     "09_Secretary/09.01_People",
     "01_Governance/MENACOSE_People",
     "07_Communications/Query Communication.base",

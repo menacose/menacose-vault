@@ -10,13 +10,13 @@ note_taker: "{{Name of minute taker}}"
 ---
 ---
 ## Attendance
-- [ ] Dr. Maged Elaasar
+- [x] Dr. Maged Elaasar ✅ 2026-08-09
 - [ ] Dr. Bassem Hassan
 - [ ] Hassan Eldeeb
 - [ ] Moataz Hassan
 - [ ] Mohamed Adel
-- [ ] Mahmoud Fouda
-- [ ] Omar Hussein
+- [x] Mahmoud Fouda ✅ 2026-08-09
+- [x] Omar Hussein ✅ 2026-08-09
 
 ---
 ## Updates (<u>10 MINUTES</u>)
