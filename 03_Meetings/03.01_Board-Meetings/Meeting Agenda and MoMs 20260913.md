@@ -1,6 +1,6 @@
 ---
-meeting_title: Meeting Agenda and MoMs 20260906
-date: 2026-09-06
+meeting_title: Meeting Agenda and MoMs 20260913
+date: 2026-09-13
 time: "{{Start Time}} – {{End Time}}"
 location: "{{Venue / Virtual link}}"
 chair: "{{Name of meeting chair / facilitator}}"
@@ -9,23 +9,23 @@ note_taker: "{{Name of minute taker}}"
 
 ---
 ## Attendance
-- [x] Dr. Maged Elaasar ✅ 2026-09-06
+- [ ] Dr. Maged Elaasar
 - [ ] Dr. Bassem Hassan
 - [ ] Hassan Eldeeb
-- [x] Moataz Hassan ✅ 2026-09-06
+- [ ] Moataz Hassan
 - [ ] Mohamed Adel
 - [ ] Mahmoud Fouda
-- [x] Omar Hussein ✅ 2026-09-06
+- [ ] Omar Hussein
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [x] Survey Update ✅ 2026-09-06
-	- [ ] Prepare for presentation - Moataz Hassan
+- [ ] Survey Update
+	- [ ] Next Meeting
 - [ ] GMPF Representation
 	- [ ] 
-- [x] Conf. EGY EgSA 2027.01 ✅ 2026-09-06
-	- [ ] Moataz recommended a speaker: Mohamed Ragab
-	- [ ] 
+- [ ] Conf. EGY EgSA 2027.01
+- [ ] 
+- [ ] Translation WG next meeting 27.09
 ---
 
 
