@@ -9,22 +9,25 @@ note_taker: "{{Name of minute taker}}"
 
 ---
 ## Attendance
-- [ ] Dr. Maged Elaasar
-- [ ] Dr. Bassem Hassan
+- [x] Dr. Maged Elaasar ✅ 2026-09-27
+- [x] Dr. Bassem Hassan ✅ 2026-09-27
 - [ ] Hassan Eldeeb
-- [ ] Moataz Hassan
+- [x] Moataz Hassan ✅ 2026-09-27
 - [ ] Mohamed Adel
-- [ ] Mahmoud Fouda
-- [ ] Omar Hussein
+- [x] Mahmoud Fouda ✅ 2026-09-27
+- [x] Omar Hussein ✅ 2026-09-27
 
 ---
 ## Updates (<u>10 MINUTES</u>)
-- [ ] Debrief: GPMF 2026, Riyadh, SA
-- [ ] Survey Update
-	- [ ] Next Meeting was on ⏳ 2026-09-27, but NO input received from ElChami
-	- [ ] Omar contacted Chami for Material, No Reply so far
-	- [ ] Omar contacted J. Murrey for Survey Platform, but responsible person on vacation
+- [[Debrief GPMF 2026, Riyadh, SA]]
+- Coordinate with the Saudi Sub-Chapter
+- [x] Survey Update ✅ 2026-09-27
+	- [x] Next Meeting was on ⏳ 2026-09-27, but NO input received from ElChami ✅ 2026-09-27
+	- [x] Omar contacted Chami for Material, No Reply so far ✅ 2026-09-27
+	- [x] Omar contacted J. Murrey for Survey Platform, but responsible person on vacation ✅ 2026-09-27
 - [ ] Conf. EGY EgSA 2027.01
+	- [ ] Dr. Tahani invited & accepted for Space SE
+	- [ ] Guizardi from Twente
 - [ ] Translation WG next meeting on ⏳ 2026-09-27  at 21:00 (Cairo Time)
 ---
 
