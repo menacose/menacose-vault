@@ -10,12 +10,12 @@ note_taker: "{{Name of minute taker}}"
 ---
 ## Attendance
 - [ ] Dr. Maged Elaasar
-- [ ] Dr. Bassem Hassan
+- [x] Dr. Bassem Hassan ✅ 2026-10-04
 - [ ] Hassan Eldeeb
-- [ ] Moataz Hassan
-- [ ] Mohamed Adel
+- [x] Moataz Hassan ✅ 2026-10-04
+- [x] Mohamed Adel ✅ 2026-10-04
 - [ ] Mahmoud Fouda
-- [ ] Omar Hussein
+- [x] Omar Hussein ✅ 2026-10-04
 
 ---
 ## Updates (<u>10 MINUTES</u>)
@@ -36,7 +36,7 @@ note_taker: "{{Name of minute taker}}"
 | 1   | Webinars & Qahwa Gathering | All         | 20              |          | High     |
 | 2   |                            |             |                 |          |          |
 | 3   |                            |             |                 |          | …        |
-|     |                            |             |                 |          |          |
+
 # Projects
 
 - Define Projects (Set of Focus Points)

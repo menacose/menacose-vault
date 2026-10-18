@@ -27,7 +27,8 @@ note_taker: "[[Omar Hussein]]"
 
 ![[Pasted image 20260929181750.png]]
 
+
 ![[Pasted image 20260929181826.png]]
 
-**Only 16% of budget spent in 2026!**
 
+**Only 16% of budget spent in 2026!**
