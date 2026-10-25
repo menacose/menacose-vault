@@ -32,6 +32,7 @@
     "date": "date",
     "time": "datetime",
     "date time": "datetime",
-    "Speaker": "multitext"
+    "Speaker": "multitext",
+    "Date & Time": "datetime"
   }
 }

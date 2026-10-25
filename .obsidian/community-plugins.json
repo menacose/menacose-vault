@@ -3,5 +3,9 @@
   "editing-toolbar",
   "obsidian-tasks-plugin",
   "tasknotes",
-  "templater-obsidian"
+  "templater-obsidian",
+  "smart-table",
+  "advanced-rename-and-delete-handler",
+  "obsidian-custom-attachment-location",
+  "menacose-table-links"
 ]

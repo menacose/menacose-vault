@@ -45,7 +45,7 @@ note_taker: "{{Name of minute taker}}"
 | Recruit Editiorial Board                                                | [Dr. Maged]           |          |        |
 | Establish the Process e.g. Editorial                                    | [Dr. Maged]           |          |        |
 | Contact table will be extended & Questionnaire's Question to be refined | [Dr. Bassem] [Hassan] |          |        |
-![[Pasted image 20251123200245.png]]
+![[90_Attachments/90.01_Images/2025/W47/Pasted image 20251123200245.png]]
 ---
 
 ## Objectives / Desired Outcomes

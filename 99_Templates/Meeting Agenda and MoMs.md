@@ -1,52 +1,61 @@
 ---
-meeting_title: "{{Title of Meeting}}"
-date: <% tp.date.now("yyyy-MM-DD") %>
-time: "{{Start Time}} – {{End Time}}"
-location: "{{Venue / Virtual link}}"
-chair: "{{Name of meeting chair / facilitator}}"
-note_taker: "{{Name of minute taker}}"
+meeting_title: "<% tp.file.title %>"
+date & time:
+location: Online GMEET
+chair: TBD
+note_taker:
+cssclasses:
+  - meeting-wide-tables
 ---
 
-# Agenda – {{meeting_title}}
+## 1. Attendance
 
-## Attendees
-- [ ] {{Person 1}}
-- [ ] {{Person 2}}
-- …
+- [ ] Dr. Maged Elaasar
+- [ ] Dr. Bassem Hassan
+- [ ] Moataz Hassan
+- [ ] Mohamed Adel
+- [ ] Mahmoud Fouda
+- [ ] Omar Hussein
 
-## Absentees
-- …
+**Apologies / Absences:**
 
----
+## 2. Previous Actions & Progress — 15 Minutes
 
-## Agenda Items
+Use **Connect For Editing** in Section 4 to load current work and actions. Review them together using Type to distinguish projects, recurring activities and actions. Edit here or in [[Work Overview]] / [[Action Register]]; connected values update in both places.
 
-| #   | Topic                   | Responsible  | Time Box        | Category                                                | Type (Info / Discussion / Decision) | Priority (High / Medium / Low) |
-| --- | ----------------------- | ------------ | --------------- | ------------------------------------------------------- | ----------------------------------- | ------------------------------ |
-| 1   | {{Topic 1 description}} | {{Person A}} | {{e.g. 10 min}} | {{Finance / Projects / Governance / Membership / etc.}} | Info / Discussion / Decision        | High                           |
-| 2   | {{Topic 2 description}} | {{Person B}} | {{e.g. 15 min}} | {{Category}}                                            | Info / Discussion / Decision        | Medium                         |
-| 3   | …                       | …            | …               | …                                                       | …                                   | …                              |
+```smart-table
+{"columns":[{"id":"item","name":"Work / Action","type":"text","width":285},{"id":"kind","name":"Type","type":"select","width":155,"options":[{"label":"Action","color":"gray"},{"label":"Project","color":"blue"},{"label":"Recurring Activity","color":"purple"}]},{"id":"related_work","name":"Related Work / Areas","type":"text","width":205},{"id":"owner","name":"Owner","type":"select","width":160,"options":[{"label":"TBD","color":"gray"},{"label":"Dr. Maged Elaasar","color":"gray"},{"label":"Dr. Bassem Hassan","color":"gray"},{"label":"Moataz Hassan","color":"gray"},{"label":"Mohamed Adel","color":"gray"},{"label":"Mahmoud Fouda","color":"gray"},{"label":"Omar Hussein","color":"gray"}]},{"id":"due_date","name":"Due / Target Date","type":"date","width":150},{"id":"status","name":"Status","type":"status","width":145,"options":[{"label":"TBD","color":"gray"},{"label":"Backlog","color":"gray"},{"label":"Pending","color":"yellow"},{"label":"In Progress","color":"blue"},{"label":"Blocked","color":"red"},{"label":"In Review","color":"purple"},{"label":"Completed","color":"green"},{"label":"Deferred","color":"orange"},{"label":"Cancelled","color":"gray"}]},{"id":"update","name":"Progress / Blockers","type":"text","width":360}],"rows":[],"sort":null,"filters":{},"showFilters":false,"menacoseSync":{"version":1,"role":"review","active":false,"meeting":"","bindings":{},"known":[]}}
+```
 
----
+## 3. Agenda And Decisions
 
-## Previous Action Items (from last meeting)
+State the question and intended outcome. Record the decision and a short reason.
 
-| Action | Owner | Due Date | Status |
-|--------|--------|----------|--------|
-| … | … | … | Pending / Completed / Overdue |
+```smart-table
+{"columns":[{"id":"topic","name":"Topic","type":"text","width":218},{"id":"owner","name":"Owner","type":"select","width":106,"options":[{"label":"TBD","color":"gray"},{"label":"Dr. Maged Elaasar","color":"gray"},{"label":"Dr. Bassem Hassan","color":"gray"},{"label":"Moataz Hassan","color":"gray"},{"label":"Mohamed Adel","color":"gray"},{"label":"Mahmoud Fouda","color":"gray"},{"label":"Omar Hussein","color":"gray"},{"label":"All","color":"gray"}]},{"id":"time_box","name":"Time Box","type":"text","width":93},{"id":"priority","name":"Priority","type":"select","width":111,"options":[{"label":"TBD","color":"gray"},{"label":"Low","color":"green"},{"label":"Medium","color":"yellow"},{"label":"High","color":"red"}]},{"id":"desired_outcome","name":"Desired Outcome","type":"text","width":198},{"id":"decision","name":"Decision / Reason","type":"text","width":300}],"rows":[],"sort":null,"filters":{},"showFilters":false}
+```
 
----
+## 4. Action Commitments & Closing — 5 Minutes
 
-## Objectives / Desired Outcomes
-- What we want to accomplish in this meeting (e.g. “Approve budget for next quarter”, “Decide upcoming workshop theme”)
+Fill the first row for a new commitment; use **New Row** for more. Owner and Status are dropdowns; Due Date opens a calendar. Once connected and the Action has text, it is added to [[Action Register]] automatically.
 
----
+```smart-table
+{"columns":[{"id":"item","name":"Action","type":"text","width":285},{"id":"related_work","name":"Related Work","type":"text","width":205},{"id":"owner","name":"Owner","type":"select","width":160,"options":[{"label":"TBD","color":"gray"},{"label":"Dr. Maged Elaasar","color":"gray"},{"label":"Dr. Bassem Hassan","color":"gray"},{"label":"Moataz Hassan","color":"gray"},{"label":"Mohamed Adel","color":"gray"},{"label":"Mahmoud Fouda","color":"gray"},{"label":"Omar Hussein","color":"gray"}]},{"id":"due_date","name":"Due Date","type":"date","width":150},{"id":"status","name":"Status","type":"status","width":145,"options":[{"label":"TBD","color":"gray"},{"label":"Backlog","color":"gray"},{"label":"Pending","color":"yellow"},{"label":"In Progress","color":"blue"},{"label":"Blocked","color":"red"},{"label":"In Review","color":"purple"},{"label":"Completed","color":"green"},{"label":"Deferred","color":"orange"},{"label":"Cancelled","color":"gray"}]},{"id":"update","name":"Notes / Support Needed","type":"text","width":360}],"rows":[{"id":"new-commitment-1","cells":{"item":"","related_work":"","owner":"TBD","due_date":"","status":"TBD","update":""}}],"sort":null,"filters":{},"showFilters":false,"menacoseSync":{"version":1,"role":"commitments","active":false,"meeting":"","bindings":{}}}
+```
 
-## Supporting Documents / Pre-reads
-- Document 1: …
-- Document 2: …
+- [ ] Read back decisions and confirm action owners and dates.
+- [ ] Check capacity and support needed.
+- [ ] Confirm the next meeting.
 
----
+Finish the meeting below to preserve the tables as dated minutes.
 
-## Parking Lot / Other Items (if time allows)
-- …
+```menacose-meeting
+```
+
+## 5. Parking Lot
+
+Defer discussions with a revisit date. A postponed action stays in [[Action Register]] as Deferred.
+
+```smart-table
+{"columns":[{"id":"topic","name":"Deferred Topic","type":"text","width":260},{"id":"owner","name":"Owner","type":"select","width":180,"options":[{"label":"TBD","color":"gray"},{"label":"Dr. Maged Elaasar","color":"gray"},{"label":"Dr. Bassem Hassan","color":"gray"},{"label":"Moataz Hassan","color":"gray"},{"label":"Mohamed Adel","color":"gray"},{"label":"Mahmoud Fouda","color":"gray"},{"label":"Omar Hussein","color":"gray"}]},{"id":"revisit_date","name":"Revisit Date","type":"date","width":150},{"id":"status","name":"Status","type":"status","width":150,"options":[{"label":"TBD","color":"gray"},{"label":"Backlog","color":"gray"},{"label":"Pending","color":"yellow"},{"label":"In Progress","color":"blue"},{"label":"Blocked","color":"red"},{"label":"In Review","color":"purple"},{"label":"Completed","color":"green"},{"label":"Deferred","color":"orange"},{"label":"Cancelled","color":"gray"}]},{"id":"next_step","name":"Next Step","type":"text","width":320}],"rows":[],"sort":null,"filters":{},"showFilters":false}
+```

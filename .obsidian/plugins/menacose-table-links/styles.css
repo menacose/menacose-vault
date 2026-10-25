@@ -1,0 +1,16 @@
+.menacose-table-link-cell { min-width: 0; }
+.menacose-table-link-display { display: flex; align-items: center; gap: 4px; padding: 6px 8px; }
+.menacose-table-link-display[hidden], .menacose-table-link-cell textarea[hidden] { display: none !important; }
+.menacose-table-note-link { flex: 1; min-width: 0; white-space: normal; overflow-wrap: anywhere; cursor: pointer; }
+.menacose-table-link-edit { flex: none; padding: 0 4px; min-height: 24px; height: auto; box-shadow: none; background: transparent; color: var(--text-muted); }
+.menacose-meeting-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0.5rem 0 1rem;
+}
+.menacose-meeting-controls > span {
+  color: var(--text-muted);
+  font-size: var(--font-smallest);
+}

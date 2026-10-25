@@ -30,7 +30,7 @@ note_taker: "{{Name of minute taker}}"
 - [ ] Any news about the Finances?
 
 Example of Roll-Ups - AI-Generated!
-![[Pasted image 20260510185522.png]]
+![[90_Attachments/90.01_Images/2026/W19/Pasted image 20260510185522.png]]
 ## Agenda Items
 
 | #   | Topic                | Responsible  | Time Box        | Category                                                | Type (Info / Discussion / Decision) | Priority (High / Medium / Low) |

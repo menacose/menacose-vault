@@ -52,7 +52,7 @@ Identify the chosen option and provide a rationale for this choice.
 ## Implementation Plan
 Outline the steps for implementing the selected option, including responsibilities and timelines.
 
-# Follow-Up and Review
+# Follow-Up And Review
 
 ## Monitoring
 Describe how the outcome of the decision will be monitored and measured.
@@ -64,7 +64,7 @@ Set a future date to review the decision's effectiveness and any need for adjust
 - Link to any relevant information
 
 
-## 🧮 Pros and Cons Calculation
+## 🧮 Pros And Cons Calculation
 
 Pro | value 0-10 | Con | value 0-10
 :--:|:-----|:------:|:------:|
