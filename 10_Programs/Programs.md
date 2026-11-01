@@ -19,7 +19,8 @@ Chapter-wide projects may request support from this area; record the participati
 
 ## Resources And Procedures
 
-Add reusable resources and procedures as they are needed.
+- [[Activity Register]]: one row per edition, with delivery and attendance figures.
+- [[Chapter Dashboard]]: live participation, activities and delivery statistics.
 
 ## Current Work
 

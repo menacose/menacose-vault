@@ -1,6 +1,7 @@
 'use strict';
-const { Plugin, TFile, MarkdownView, Notice } = require('obsidian');
+const { Plugin, TFile, MarkdownView, Notice, MarkdownRenderChild } = require('obsidian');
 const { MeetingSync } = require('./meeting-sync');
+const { Dashboard } = require('./dashboard');
 const START = '<!-- menacose-table-links:start -->';
 const END = '<!-- menacose-table-links:end -->';
 const INDEX = /<!-- menacose-table-links:start -->[\s\S]*?<!-- menacose-table-links:end -->/;
@@ -80,6 +81,7 @@ module.exports = class MenacoseTableLinks extends Plugin {
     this.alive = true;
     this.queue = Promise.resolve();
     this.meetingSync = new MeetingSync(this, Notice);
+    this.dashboard = new Dashboard(this, MarkdownRenderChild);
     this.register(() => {
       this.alive = false;
       for (const timer of this.timers.values()) clearTimeout(timer);

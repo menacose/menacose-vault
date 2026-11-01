@@ -27,3 +27,15 @@ The registers currently live at 04_Projects/Work Overview.md and 04_Projects/Act
 meeting-sync.js contains the sync engine; table-links.js contains the plugin integration and link features. Run node build.cjs in this folder to produce the self-contained main.js used by Obsidian. Runtime code has no filesystem/module dependencies beyond Obsidian, so relative module loading is not required on desktop or mobile.
 
 Run node --test tests/meeting-sync.test.cjs for merge, conflict, history, new-action and guarded-write checks. Smart Table's installed renderer is also exercised with a simulated DOM during setup; the actual Obsidian interface still needs a visual check.
+
+## Live Chapter Dashboard
+
+The Chapter Dashboard note uses the menacose-dashboard code-block renderer. It reads board attendance, person notes, Work Overview, Action Register and Activity Register, and refreshes after source edits. It does not write statistics back to the source records or make network calls.
+
+- Historical filters apply to board attendance and delivered activity editions. Current workload, deadlines and the next 30 days of planned editions remain current.
+- Board dates use a valid dated filename, with mismatching YAML dates flagged. Multiple notes for one date count once, preferring a recorded, complete attendance checklist. Entirely unchecked lists are unrecorded unless attendance is explicitly confirmed. Copied completion marks for another date are excluded.
+- Core-team comparison uses current person notes. Honorifics and person aliases are normalized; former role holders are excluded. Rates are marked-present / listed opportunities in meetings with recorded attendance, not confirmed absence rates.
+- Activity statistics require explicit Held status and valid nonnegative integer counts. Blank counts remain unknown; zero is a measured zero. Visits are not unique participants. Registration ratios use only matched figures. Missing or malformed structured sources show Not Recorded.
+- Only canonical shared registers supply work/action totals. Weekly copies and new-commitment views cannot multiply those counts. All/shared/unknown owners are not silently assigned to every core-team member.
+
+dashboard.js contains the source parser, aggregation functions and renderer. It is bundled into main.js by build.cjs. Run node --test tests/dashboard.test.cjs for counting, date, duplication, missing-data and safe-rendering checks.

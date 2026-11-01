@@ -1,9 +1,9 @@
 {
   "id": "menacose-table-links",
   "name": "MENACOSE Table Links",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "1.4.0",
-  "description": "Clickable Smart Table links, native backlinks and editable weekly meeting tables connected to shared work and action registers.",
+  "description": "Clickable Smart Table links, shared meeting tables and a live chapter dashboard for participation, activities and current work.",
   "author": "MENACOSE",
   "isDesktopOnly": false
 }

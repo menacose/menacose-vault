@@ -5,6 +5,7 @@ Start with [[Projects and Meetings Guide]] for work definitions, where to keep i
 
 ## Start working
 
+- [[Chapter Dashboard]]: live participation, activity and delivery statistics.
 - [[Work Overview]] — projects and recurring activities.
 - [[Action Register]] — accepted next steps and backlog.
 - [[Area Directory]] — working areas and resources.

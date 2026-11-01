@@ -11,7 +11,7 @@ cssclasses:
 ## 1. Attendance
 
 - [x] Dr. Maged Elaasar ✅ 2026-10-25
-- [ ] Dr. Bassem Hassan
+- [x] Dr. Bassem Hassan ✅ 2026-10-25
 - [x] Moataz Hassan ✅ 2026-10-25
 - [x] Mohamed Adel ✅ 2026-10-25
 - [x] Mahmoud Fouda ✅ 2026-10-25

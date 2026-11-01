@@ -81,6 +81,10 @@ Finish a meeting to freeze its tables. Preparing another connected meeting also 
 - Set realistic dates; use review dates when timing is uncertain.
 - Ask for help early. Rescope, defer or cancel as capacity changes.
 
+## Chapter Statistics
+
+Use [[Chapter Dashboard]] for live core-team participation, activity attendance and current work. Board meeting checklists supply participation; [[Activity Register]] holds one row per edition with status and aggregate attendance. Leave unknown counts blank and confirm Held only after delivery. The dashboard flags missing records and counts meeting copies once.
+
 **Start here:** [[Work Overview]] · [[Action Register]] · [[Area Directory]] · [[MENACOSE People]]. Use [[Project Template]], [[Recurring Activity Template]] and [[Meeting Agenda and MoMs]] for new notes.
 
 Historical weekly tables remain dated snapshots. Project links and backlinks are maintained by MENACOSE Table Links; renaming a linked note also updates its table link. Use the pencil to edit a link.

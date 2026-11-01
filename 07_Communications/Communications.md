@@ -18,6 +18,8 @@ Maintain chapter communications, publishing guidance and reusable channel assets
 
 ## Resources And Procedures
 
+- [[Activity Register]]: edition dates, delivery and attendance.
+- [[Chapter Dashboard]]: live activity and chapter statistics.
 - [[Secretary Transition And Volunteer Vacancy Announcement]]
 
 - [[Qahwa Gathering]]
