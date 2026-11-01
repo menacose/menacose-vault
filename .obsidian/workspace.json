@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261101.md",
+                "file": "00_Meta/Projects and Meetings Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting Agenda and MoMs 20261101"
+              "title": "Projects and Meetings Guide"
             }
           },
           {
@@ -238,18 +238,21 @@
   },
   "active": "19ccfecaecf5f2b1",
   "lastOpenFiles": [
-    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261025.md",
+    "00_Meta/Vault Organisation & Processes.md",
+    "12_VP/Untitled.md",
+    "12_VP/VP.md",
     "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261101.md",
+    "01_Governance/MENACOSE_People/Dr. Bassem Hassan.md",
+    "07_Communications/Expert Talks Operations.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261025.md",
     "04_Projects/Work Overview.md",
     "04_Projects/Action Register.md",
     "10_Programs/Activity Register.md",
     "00_Meta/Chapter Dashboard.md",
     "07_Communications/AI-Powered Systems Engineering.md",
     "edit.md",
-    "00_Meta/Vault Organisation & Processes.md",
     "04_Projects/Q4 Newsletter 2026.md",
     "07_Communications/Secretary Transition And Volunteer Vacancy Announcement.md",
-    "07_Communications/Expert Talks Operations.md",
     "05_Working-Groups/Working Group Review Template.md",
     "00_Meta/Projects and Meetings Guide.md",
     "00_Meta/Area Directory.md",
@@ -266,7 +269,6 @@
     "01_Governance/INCOSE Infrastructure.md",
     "99_Templates/Recurring Activity Template.md",
     "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929175526.png",
-    "README.md",
     "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929181826.png",
     "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929181750.png",
     "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929181147.png",
@@ -282,8 +284,6 @@
     "90_Attachments/90.01_Images/2026/W22",
     "90_Attachments/90.01_Images/2026/W19",
     "90_Attachments/90.01_Images/2026/W18",
-    "Bassem Hassan.md",
-    "12_VP/VP.md",
     "02_Inbox/Untitled.canvas",
     "Untitled.canvas"
   ]
