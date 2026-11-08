@@ -1,0 +1,126 @@
+/* Table Fields — v0.1 */
+
+.tf-table {
+	/* keep it looking like a normal Obsidian table; only cell affordances change */
+}
+
+/* Settings: sub-tabs */
+.tf-tabbar {
+	display: flex;
+	gap: 4px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	margin-bottom: 16px;
+}
+
+.tf-tab {
+	background: transparent;
+	border: none;
+	box-shadow: none;
+	border-bottom: 2px solid transparent;
+	border-radius: 0;
+	padding: 8px 14px;
+	cursor: pointer;
+	color: var(--text-muted);
+	font-weight: var(--font-medium);
+}
+
+.tf-tab:hover {
+	color: var(--text-normal);
+	background: transparent;
+}
+
+.tf-tab-active {
+	color: var(--text-normal);
+	border-bottom-color: var(--interactive-accent);
+}
+
+.tf-usage img {
+	max-width: 100%;
+	height: auto;
+	margin: 8px 0;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 6px;
+}
+
+.tf-skill-desc {
+	color: var(--text-muted);
+	margin-top: 0;
+}
+
+.tf-skill-bar {
+	margin-bottom: 8px;
+}
+
+.tf-skill-text {
+	width: 100%;
+	min-height: 340px;
+	resize: vertical;
+	font-family: var(--font-monospace);
+	font-size: 12px;
+	line-height: 1.5;
+	white-space: pre;
+	overflow: auto;
+}
+
+.tf-cell-center {
+	text-align: center;
+}
+
+.tf-cell-right {
+	text-align: right;
+	font-variant-numeric: tabular-nums;
+}
+
+.tf-cell-date {
+	white-space: nowrap;
+}
+
+.tf-checkbox {
+	cursor: pointer;
+	width: 16px;
+	height: 16px;
+	margin: 0;
+	vertical-align: middle;
+}
+
+.tf-select {
+	width: 100%;
+	background: var(--background-modifier-form-field);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-s);
+	color: var(--text-normal);
+	font-size: var(--font-ui-small);
+	padding: 2px 4px;
+	cursor: pointer;
+}
+
+.tf-select:hover {
+	border-color: var(--interactive-accent);
+}
+
+/* Live Preview widget table (replaces the native CM6 table when the cursor is outside) */
+.tf-lp-wrap {
+	margin: var(--p-spacing) 0;
+	overflow-x: auto;
+}
+
+.tf-lp-table {
+	border-collapse: collapse;
+	width: auto;
+}
+
+.tf-lp-table th,
+.tf-lp-table td {
+	border: 1px solid var(--background-modifier-border);
+	padding: 4px 8px;
+}
+
+.tf-lp-table th {
+	background: var(--background-secondary);
+	font-weight: var(--font-semibold);
+	text-align: left;
+}
+
+.tf-lp-table th.tf-th {
+	cursor: context-menu;
+}
