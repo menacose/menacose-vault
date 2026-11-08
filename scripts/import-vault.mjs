@@ -1,7 +1,14 @@
 import fs from 'node:fs';
 import path from 'node:path';
-const vault=path.resolve(process.argv[2] || '../menacose-vault');
 const root=path.resolve(import.meta.dirname,'..');
+const configuredVault=process.argv[2] || process.env.MENACOSE_VAULT;
+const vault=path.resolve(configuredVault || root);
+if(!fs.existsSync(path.join(vault,'04_Projects/Action Register.md')) || !fs.existsSync(path.join(vault,'04_Projects/Work Overview.md'))){
+  console.error('Obsidian source notes were not found at: '+vault);
+  console.error('Run: node scripts/import-vault.mjs "C:/path/to/obsidian-vault"');
+  console.error('Or set MENACOSE_VAULT to the source vault path. Existing website data has been preserved.');
+  process.exit(1);
+}
 function table(file){const text=fs.readFileSync(path.join(vault,file),'utf8'); const blocks=[...text.matchAll(/```smart-table\s*\n([\s\S]*?)```/g)];if(!blocks.length)throw Error('Missing smart table: '+file);return JSON.parse(blocks[0][1]).rows;}
 const clean=s=>String(s||'').replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g,'$2').replace(/\[\[([^\]]+)\]\]/g,'$1');
 const source=file=>'obsidian://open?vault='+encodeURIComponent(path.basename(vault))+'&file='+encodeURIComponent(file);
