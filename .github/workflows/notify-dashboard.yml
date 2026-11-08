@@ -1,0 +1,29 @@
+name: Notify private dashboard after vault commits
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  trigger-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify cross-repository trigger credential
+        env:
+          GH_TOKEN: ${{ secrets.DASHBOARD_TRIGGER_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo '::error::Set repository Actions secret DASHBOARD_TRIGGER_TOKEN to a fine-grained token with Actions write access only to dr-bassem-hassan/Obsidian_to_Canban.'
+            exit 1
+          fi
+      - name: Start private dashboard refresh
+        env:
+          GH_TOKEN: ${{ secrets.DASHBOARD_TRIGGER_TOKEN }}
+          GH_HOST: github.com
+        run: |
+          gh api --method POST repos/dr-bassem-hassan/Obsidian_to_Canban/actions/workflows/refresh.yml/dispatches -f ref=main
+          echo 'Dashboard refresh requested. The private workflow imports the latest vault main, validates it, and updates the Hostinger branch.' >> "$GITHUB_STEP_SUMMARY"
