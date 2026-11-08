@@ -1,0 +1,33 @@
+{
+  "source": "https://www.menacose.org/team",
+  "members": [
+    {
+      "name": "Maged Elaasar",
+      "role": "President"
+    },
+    {
+      "name": "Bassem Hassan",
+      "role": "Vice President"
+    },
+    {
+      "name": "Hassan Mohamed",
+      "role": "Secretary"
+    },
+    {
+      "name": "Mohamed Adel",
+      "role": "Programs"
+    },
+    {
+      "name": "Moataz Hassan",
+      "role": "SE Education"
+    },
+    {
+      "name": "Mahmoud Fouda",
+      "role": "Finance"
+    },
+    {
+      "name": "Omar Hussein",
+      "role": "Communications & PR"
+    }
+  ]
+}

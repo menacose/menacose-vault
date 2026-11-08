@@ -1,0 +1,1 @@
+{"name":"menacose-team-hub","private":true,"type":"module","scripts":{"import":"node scripts/import-vault.mjs","start":"node scripts/serve.mjs","check":"node --check public/app.js && node --check scripts/import-vault.mjs && node --check scripts/serve.mjs"}}

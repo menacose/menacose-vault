@@ -1,0 +1,346 @@
+{
+  "importedAt": "2026-11-08T19:32:05.727Z",
+  "actions": [
+    {
+      "id": "meeting-20261025-a1",
+      "action": "Send Chami an email for a status meeting.",
+      "owner": "Omar Hussein",
+      "due_date": "2026-10-25",
+      "status": "In Progress",
+      "notes": "Previously unchecked; confirm current status.",
+      "related_work": "Member Survey",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-20261025-a2",
+      "action": "Prepare the Working Groups activities/progress reporting template.",
+      "owner": "Omar Hussein",
+      "due_date": "2026-10-25",
+      "status": "In Review",
+      "notes": "Confirm status.",
+      "related_work": "Working Groups",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-20261025-a3",
+      "action": "Prepare the Q4 Newsletter.",
+      "owner": "Dr. Maged Elaasar",
+      "due_date": "2026-11-08",
+      "status": "Backlog",
+      "notes": "Confirm status.",
+      "related_work": "Q4 Newsletter 2026",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-20261025-a4",
+      "action": "Start gathering a list for Expert Talks.",
+      "owner": "All",
+      "due_date": "2026-11-08",
+      "status": "In Progress",
+      "notes": "Confirm status; all may contribute.",
+      "related_work": "Expert Talks Operations",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-20261025-a5",
+      "action": "Prepare a post thanking Sec. Hassan and inviting applications for his vacancy.",
+      "owner": "Omar Hussein",
+      "due_date": "2026-10-25",
+      "status": "In Review",
+      "notes": "Confirm status.",
+      "related_work": "Secretary",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-20261018-qahwa-invitation",
+      "action": "Invite members to the next Qahwa Gathering.",
+      "related_work": "Qahwa Gathering Operations",
+      "owner": "Omar Hussein",
+      "due_date": "2026-10-18",
+      "status": "Completed",
+      "notes": "Invitation for the next gathering marked complete on 18 October; gathering date recorded as 1 November 2026.\nNext: Confirm current readiness; discuss under Webinars & Qahwa Gathering.",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261025-new-commitment-1",
+      "action": "Reschedule Chami an email for a status meeting.",
+      "related_work": "",
+      "owner": "Omar Hussein",
+      "due_date": "2026-11-08",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261025-r4-vmqcw",
+      "action": "Estimate Media Kit Effort",
+      "related_work": "",
+      "owner": "Mahmoud Fouda",
+      "due_date": "2026-11-01",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261025-r5-w9buj",
+      "action": "Schedule a Meeting with Abdelwahed",
+      "related_work": "edit",
+      "owner": "Mohamed Adel",
+      "due_date": "2026-11-15",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261025-r6-1ej7n",
+      "action": "Review Secretary Job Description",
+      "related_work": "",
+      "owner": "All",
+      "due_date": "2026-11-01",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261025-r7-p5wme",
+      "action": "Review Working Group Review Template",
+      "related_work": "",
+      "owner": "All",
+      "due_date": "2026-11-01",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261025-r8-wwc11",
+      "action": "Estimate Presentation Preparation Effort for INCOSE MENA Introduction to Universities, Supported by Mohamed",
+      "related_work": "",
+      "owner": "Moataz Hassan",
+      "due_date": "2026-11-01",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    }
+  ],
+  "projects": [
+    {
+      "id": "work-member-survey",
+      "work": "Member Survey",
+      "type": "Project",
+      "areas": "Programs",
+      "owner": "Moataz Hassan",
+      "status": "Blocked",
+      "milestone": "Survey update marked complete on 18 October. Core Team review is pending; draft review by an elected set of members remains open.\nNext: Confirm review owners and dates. Next meeting was recorded as “18 October?” and needs clarification. See the action to email Chami for a status meeting.",
+      "target_date": "2027-01-31",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FWork%20Overview.md"
+    },
+    {
+      "id": "work-egsa-2027",
+      "work": "EgSA Conference January 2027",
+      "type": "Project",
+      "areas": "President",
+      "owner": "Dr. Maged Elaasar",
+      "status": "In Progress",
+      "milestone": "Conference update marked complete on 18 October; talks with EgSA about going public remain ongoing.\nNext: Confirm progress and any decision or support needed.",
+      "target_date": "2026-11-01",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FWork%20Overview.md"
+    },
+    {
+      "id": "work-newsletter-q4",
+      "work": "Q4 Newsletter 2026",
+      "type": "Project",
+      "areas": "Communications",
+      "owner": "Dr. Maged Elaasar",
+      "status": "TBD",
+      "milestone": "Agree content and draft review.",
+      "target_date": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FWork%20Overview.md"
+    },
+    {
+      "id": "work-qahwa",
+      "work": "Qahwa Gathering Operations",
+      "type": "Recurring Activity",
+      "areas": "Communications",
+      "owner": "Omar Hussein",
+      "status": "In Progress",
+      "milestone": "Confirm readiness for the gathering recorded for 1 November.",
+      "target_date": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FWork%20Overview.md"
+    },
+    {
+      "id": "work-expert-talks",
+      "work": "Expert Talks Operations",
+      "type": "Recurring Activity",
+      "areas": "Communications",
+      "owner": "Omar Hussein",
+      "status": "TBD",
+      "milestone": "Gather prospective talks and confirm coordinating owner.",
+      "target_date": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FWork%20Overview.md"
+    }
+  ],
+  "meetings": [
+    {
+      "title": "Meeting Agenda and MoMs 20261101",
+      "date": "2026-11-01",
+      "focus": "Four actions are due on 1 November: Media Kit effort, Secretary job description, Working Group review template, and university-presentation effort. Three earlier actions remain open past their recorded due dates. Confirm progress and realistic commitments; existing dates and statuses are retained.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261101.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20261025",
+      "date": "2026-10-25",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261025.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20261018",
+      "date": "2026-10-18",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261018.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20261011",
+      "date": "2026-10-11",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261011.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20261004",
+      "date": "2026-10-04",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261004.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260927",
+      "date": "2026-09-27",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260927.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260920",
+      "date": "2026-09-20",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260920.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260913",
+      "date": "2026-09-13",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260913.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260906",
+      "date": "2026-09-06",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260906.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260816",
+      "date": "2026-08-16",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260816.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260809",
+      "date": "2026-08-09",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260809.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260802",
+      "date": "2026-08-02",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260802.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260726",
+      "date": "2026-07-26",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260726.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260719",
+      "date": "2026-07-19",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260719.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260705",
+      "date": "2026-07-05",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260705.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260628",
+      "date": "2026-06-28",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260628.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260621",
+      "date": "2026-06-21",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260621.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260614",
+      "date": "2026-06-14",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260614.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260607",
+      "date": "2026-06-07",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260607.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260531",
+      "date": "2026-05-31",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260531.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260524",
+      "date": "2026-05-24",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260524.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260517",
+      "date": "2026-05-17",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260517.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260510",
+      "date": "2026-05-10",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260510.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260503",
+      "date": "2026-05-03",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260503.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20260426",
+      "date": "2026-04-26",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020260426.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20251123",
+      "date": "2025-11-23",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020251123.md"
+    },
+    {
+      "title": "Meeting Agenda and MoMs 20250914",
+      "date": "2025-09-14",
+      "focus": "Weekly core team agenda and progress review.",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020250914.md"
+    }
+  ]
+}
