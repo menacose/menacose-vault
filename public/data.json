@@ -1,5 +1,5 @@
 {
-  "importedAt": "2026-11-08T19:32:05.727Z",
+  "importedAt": "2026-11-08T20:03:01.274Z",
   "actions": [
     {
       "id": "meeting-20261025-a1",
@@ -120,6 +120,16 @@
       "status": "TBD",
       "notes": "",
       "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
+    },
+    {
+      "id": "meeting-Meeting Agenda and MoMs 20261101-new-commitment-1",
+      "action": "Current available capacities vs. achievable tasks: Survey, Yearly Conference, Monthly webinar, bi-weekly meeting, basics",
+      "related_work": "",
+      "owner": "TBD",
+      "due_date": "",
+      "status": "TBD",
+      "notes": "",
+      "source": "obsidian://open?vault=menacose-vault&file=04_Projects%2FAction%20Register.md"
     }
   ],
   "projects": [
@@ -181,9 +191,15 @@
   ],
   "meetings": [
     {
+      "title": "Meeting Agenda and MoMs 20261108",
+      "date": "2026-11-08",
+      "focus": "Four actions are due on 1 November: Media Kit effort, Secretary job description, Working Group review template, and university-presentation effort. Three earlier actions remain open past their recorded due dates. Confirm progress and realistic commitments; existing dates and statuses are retained.\r",
+      "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261108.md"
+    },
+    {
       "title": "Meeting Agenda and MoMs 20261101",
       "date": "2026-11-01",
-      "focus": "Four actions are due on 1 November: Media Kit effort, Secretary job description, Working Group review template, and university-presentation effort. Three earlier actions remain open past their recorded due dates. Confirm progress and realistic commitments; existing dates and statuses are retained.",
+      "focus": "Four actions are due on 1 November: Media Kit effort, Secretary job description, Working Group review template, and university-presentation effort. Three earlier actions remain open past their recorded due dates. Confirm progress and realistic commitments; existing dates and statuses are retained.\r",
       "source": "obsidian://open?vault=menacose-vault&file=03_Meetings%2F03.01_Board-Meetings%2FMeeting%20Agenda%20and%20MoMs%2020261101.md"
     },
     {

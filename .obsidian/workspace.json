@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "b9edbb702ee3df62",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f0d7661f9e3c662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ccfecaecf5f2b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Meetings/03.03_Other-Meetings/Survey Meeting with Chami.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Survey Meeting with Chami"
+            }
+          },
+          {
+            "id": "a2e90632519981aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Projects/Work Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bead697d99a00606",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7060e62a3debc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6aab63b8435264",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8ee71bd2127864d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TLI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "17a92458db085b84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ca7e61c889a0d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "76262b4255ba5a6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41386d717cc1ded6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d48572fd1bba463d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Publish Obsidian Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Publish Obsidian Vault"
+            }
+          },
+          {
+            "id": "ebafc71b78d1a12d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ea708f647d15adf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "90_Attachments/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "37e6e558e7b6ce0a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "90_Attachments/Untitled.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "ad45b4f117120172",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2f45ac6f852a8e2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261025.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "templater-obsidian:Templater": false,
+      "smart-table:Insert Smart Table": false
+    }
+  },
+  "active": "19ccfecaecf5f2b1",
+  "lastOpenFiles": [
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261108.md",
+    "03_Meetings/03.03_Other-Meetings/Survey Meeting with Chami.md",
+    "03_Meetings/03.03_Other-Meetings",
+    "05_Programs/INCOSE MENA Working Groups (WGs)/Programs Director-INCOSE MENA Working Groups (WGs) Strategy.md",
+    "05_Programs/INCOSE MENA Working Groups (WGs)/Working Group Review Template.md",
+    "05_Programs/INCOSE MENA Working Groups (WGs)/Working Groups.md",
+    "05_Programs/Activity Register.md",
+    "05_Programs/Programs.md",
+    "07_Communications/Secretary Transition And Volunteer Vacancy Announcement.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261101.md",
+    "Untitled.md",
+    "05_Programs/INCOSE MENA Working Groups (WGs)",
+    "05_Programs",
+    "00_Meta/Projects and Meetings Guide.md",
+    "00_Meta/Vault Organisation & Processes.md",
+    "12_VP/Untitled.md",
+    "12_VP/VP.md",
+    "01_Governance/MENACOSE_People/Dr. Bassem Hassan.md",
+    "07_Communications/Expert Talks Operations.md",
+    "03_Meetings/03.01_Board-Meetings/Meeting Agenda and MoMs 20261025.md",
+    "04_Projects/Work Overview.md",
+    "04_Projects/Action Register.md",
+    "10_Programs/Activity Register.md",
+    "00_Meta/Chapter Dashboard.md",
+    "07_Communications/AI-Powered Systems Engineering.md",
+    "edit.md",
+    "04_Projects/Q4 Newsletter 2026.md",
+    "05_Working-Groups/Working Group Review Template.md",
+    "00_Meta/Area Directory.md",
+    "00_Meta/INCOSE_MENA_Logo_Package",
+    "90_Attachments/INCOSE_MENA_Chapter_Secretary_Role_Description.docx",
+    "90_Attachments/INCOSE_MENA_Working_Group_Review_Branded_Capitalized.docx",
+    "90_Attachments/90.02_Docs",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929175526.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929181826.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929181750.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929181147.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929180456.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929180437.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929180430.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929180418.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929180239.png",
+    "90_Attachments/90.01_Images/2026/W40/Pasted image 20260929180038.png",
+    "90_Attachments/90.01_Images/2026/W40",
+    "90_Attachments/90.01_Images/2026/W31",
+    "90_Attachments/90.01_Images/2026/W27",
+    "02_Inbox/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
