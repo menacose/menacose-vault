@@ -14,7 +14,7 @@ Previous Minutes: [[Meeting Agenda and MoMs 20261108]] · [[Chapter Dashboard]]
 
 - [x] Dr. Maged Elaasar ✅ 2026-11-15
 - [x] Dr. Bassem Hassan ✅ 2026-11-15
-- [ ] Moataz Hassan
+- [x] Moataz Hassan ✅ 2026-11-15
 - [ ] Mohamed Adel
 - [ ] Mahmoud Fouda
 - [ ] Omar Hussein - Absent

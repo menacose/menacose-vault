@@ -50,14 +50,18 @@ Dear colleagues,
 
 
 ## Membership Milestone
-## Facts and figures
-
-## ==Technical Leadership Institute  --> Monique Capote
+## 
+==Technical Leadership Institute  --> Monique Capote
 [https://www.incose.org/events-education/technical-leadership-institute/](https://www.incose.org/events-education/technical-leadership-institute/)
 
 
 ## ESEP Certificate Bassem 
-====
+https://lnkd.in/p/e8nazx6Q
+
+
+## Facts and figures
+
+
 Active memembrs 115
 Lapsed memeber 54
 Linkedin 553
