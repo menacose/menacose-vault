@@ -12,8 +12,8 @@ Previous Minutes: [[Meeting Agenda and MoMs 20261108]] · [[Chapter Dashboard]]
 
 ## 1. Attendance
 
-- [ ] Dr. Maged Elaasar
-- [ ] Dr. Bassem Hassan
+- [x] Dr. Maged Elaasar ✅ 2026-11-15
+- [x] Dr. Bassem Hassan ✅ 2026-11-15
 - [ ] Moataz Hassan
 - [ ] Mohamed Adel
 - [ ] Mahmoud Fouda
