@@ -47,12 +47,18 @@ Dear colleagues,
 
 
 ## 1. GPMF 2026
-
+## 
+## Saudi community progress
+## 
+## we are working on survey 
 
 ## Membership Milestone
 ## 
-==Technical Leadership Institute  --> Monique Capote
-[https://www.incose.org/events-education/technical-leadership-institute/](https://www.incose.org/events-education/technical-leadership-institute/)
+## ==Technical Leadership Institute  --> Monique Capote
+
+
+
+## [https://www.incose.org/events-education/technical-leadership-institute/](https://www.incose.org/events-education/technical-leadership-institute/)
 
 
 ## ESEP Certificate Bassem 
