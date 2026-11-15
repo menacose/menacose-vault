@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "meeting-wide-tables"
-  ]
+  ],
+  "showRibbon": true
 }
