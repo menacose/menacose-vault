@@ -1,5 +1,5 @@
 ---
-meeting_title: Meeting Agenda and MoMs 20261101
+meeting_title: Meeting Agenda and MoMs 20261108
 date & time: 2026-11-08T20:00:00
 location: Online GMEET
 chair: Communications & PR
@@ -14,7 +14,7 @@ Previous Minutes: [[Meeting Agenda and MoMs 20261025]] · [[Chapter Dashboard]]
 
 - [x] Dr. Maged Elaasar ✅ 2026-11-08
 - [x] Dr. Bassem Hassan ✅ 2026-11-08
-- [ ] Moataz Hassan
+- [x] Moataz Hassan ✅ 2026-11-15
 - [x] Mohamed Adel ✅ 2026-11-08
 - [x] Mahmoud Fouda ✅ 2026-11-08
 - [x] Omar Hussein ✅ 2026-11-08
